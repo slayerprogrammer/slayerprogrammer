@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **info@tolgahanozturk.com**
 
-- 📫 Business Bio [https://www.linkedin.com/in/tolgahanozturk/](tolgahanozturk)
+- 📫 Business Bio [tolgahanozturk](https://www.linkedin.com/in/tolgahanozturk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
