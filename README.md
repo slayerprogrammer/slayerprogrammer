@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tolgahan</h1>
 <h3 align="center">A Fullstack developer from Turkey</h3>
 
-
+<p align="center">
 - 📝 I regularly write articles on [https://tolgahanozturk.com/](https://tolgahanozturk.com/)
 
 - 📫 How to reach me **info@tolgahanozturk.com**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
 <a href="https://codepen.io/tolgahanozturk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tolgahanozturk" height="30" width="40" /></a>
