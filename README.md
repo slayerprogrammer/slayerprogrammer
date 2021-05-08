@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolgahan</h1>
 <h3 align="center">A Fullstack developer from Turkey</h3>
 
-<p align="center">
+<p align="left">
 - 📝 I regularly write articles on https://tolgahanozturk.com/
 </br>
 - 📫 How to reach me **info@tolgahanozturk.com**
