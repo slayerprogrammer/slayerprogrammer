@@ -10,11 +10,6 @@ My name is Tolgahan Öztürk. I live in Ankara/Turkey.
 I'm working as a Co-Founder & CTO at [Ardensoft](https://www.sepetteyim.com)
 
 I'm writing as a [Medium](https://tolgahanozturk.medium.com/)
-
-## I'm currently working on 🔭
-
-Projects (https://github.com/Sepetteyim)
-
 ## Know / Using 🧠
 
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
@@ -30,6 +25,9 @@ Projects (https://github.com/Sepetteyim)
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
 
+## I'm currently working on 🔭
+
+Projects (https://github.com/Sepetteyim)
 
 ## Contact Me 📫
 
