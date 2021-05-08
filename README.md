@@ -8,6 +8,7 @@ My name is Tolgahan Öztürk. I live in Ankara/Turkey.
 ## Job
 
 I'm working as a Co-Founder & CTO at [Ardensoft](https://www.sepetteyim.com)
+
 I'm writing as a [Medium](https://tolgahanozturk.medium.com/)
 
 ## I'm currently working on 🔭
