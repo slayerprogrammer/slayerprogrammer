@@ -11,7 +11,7 @@ I'm working as a Co-Founder & CTO at [Ardensoft](https://www.sepetteyim.com)
 
 ## I'm currently working on 🔭
 
-Projects (https://github.com/slayerprogrammer/Sepetteyim)
+Projects (https://github.com/Sepetteyim)
 
 ## Know / Using 🧠
 
