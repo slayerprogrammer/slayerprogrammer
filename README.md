@@ -2,8 +2,7 @@
 <h3 align="center">A Fullstack developer from Turkey</h3>
 
 <p align="center">
-- 📝 I regularly write articles on [https://tolgahanozturk.com/](https://tolgahanozturk.com/)
-
+- 📝 I regularly write articles on https://tolgahanozturk.com/
 - 📫 How to reach me **info@tolgahanozturk.com**
 </p>
 <h3 align="left">Connect with me:</h3>
