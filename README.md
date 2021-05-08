@@ -36,7 +36,7 @@ Projects (https://github.com/Sepetteyim)
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/tolgahanozturk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolgahanozturk/)
-[![Instagram Badge](https://img.shields.io/badge/tolgahannnozturkkk-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/tolgahannnozturkkk/)
+[![Instagram Badge](https://img.shields.io/badge/tolgahanozturk-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/tolgahannnozturkkk/)
 
 ## Ask me about 💬
 
