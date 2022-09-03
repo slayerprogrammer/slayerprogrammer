@@ -7,7 +7,7 @@ My name is Tolgahan Öztürk. I live in Ankara/Turkey.
 
 ## Job
 
-I'm working as a Co-Founder & CTO at [Ardensoft](https://www.sepetteyim.com)
+I'm working as a Software Developer and Scrum Master at [KocSistem](https://kocsistem.com.tr)
 
 I'm writing as a [Medium](https://tolgahanozturk.medium.com/)
 
@@ -24,7 +24,6 @@ Projects (https://github.com/Sepetteyim)
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://www.elastic.co" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
 
 ## <h3 align="left">Tools:</h3>
@@ -35,7 +34,6 @@ Projects (https://github.com/Sepetteyim)
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="rubymine" width="30" height="30"/> </a> 
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 <a href="https://www.gitlab.com" target="_blank"><img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="gitlab" width="30" height="30"></a>
 
@@ -53,6 +51,8 @@ I'd like to get in touch with the following topics
   - Design Patterns
   - CQRS & BDD
   - Clean Architecture
+  - Microservices Architecture
+  - Domain Driven Design
   - Scrum
   - Agile
   - .NET Core
