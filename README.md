@@ -18,7 +18,6 @@ Projects (https://github.com/Sepetteyim)
 ## Know / Using 🧠
 
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://www.microsoft.com" target="_blank"><img height="50" src="https://lh3.googleusercontent.com/proxy/4QSPFamGCGAw465VmOHgl46zZLn_3zrbR1gb-22u-kMFrDPZPdY5wXzrXjHz1bqN4QVKigqnQl8Ud0RD"></a></code>
 <code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="https://tr.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -59,3 +58,4 @@ I'd like to get in touch with the following topics
   - .NET MVC
   - Flutter
   - MSSQL
+  - PostgreSQL
